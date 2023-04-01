@@ -17,3 +17,6 @@ RecoilJS
 Local Storage
 React Icons
 Material UI
+To Clone this Project
+Terminal Command - git clone https://github.com/swetaraj68/Project-5/edit/master
+Deployment Link -https://bright-alpaca-c8321d.netlify.app/
